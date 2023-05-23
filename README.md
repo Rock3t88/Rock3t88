@@ -2,7 +2,7 @@
 - 👀 I’m interested in smart home and in love with home assistant and shelly
 - 🌱 I’m currently learning arduino development, shelly scripting and home automation
 - 💞️ I’m looking to collaborate on cheap, secure and cloudfree smart home development
-- 📫 How to reach me: telegram @rock3t88
+- 📫 How to reach me: telegram @rock3tsmarty
 
 <!---
 Rock3t88/Rock3t88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
